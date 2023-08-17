@@ -59,8 +59,8 @@ let questions = [
     {
         question: "Visual Studio Code is an Example of?",
         options: [
-            { text: "An Integrated Development Environment Software", correct: false },
-            { text: "A Library", correct: true },
+            { text: "Wearable Glasses", correct: false },
+            { text: "An Integrated Development Environment Software", correct: true },
             { text: "A Place I Know In Ontario", correct: false },
             { text: "A Place To Record Music", correct: false }
         ]
