@@ -6,13 +6,12 @@ This is a short quiz that will test your knowledge on various coding topics. Onc
 
 
 ## Executing program
-Website link: https://ayhaamb.github.io/portfolio-ayhaam/
+Website link: 
 
 
 ## Photo of deployed website
 ![My Image](./images/Screenshot%202023-08-09%20at%207.46.50%20PM.png)
 
-![My Image]
 
 ## Help
 Any advice for common problems or issues, email me at ayh132@gmail.com

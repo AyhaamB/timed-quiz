@@ -48,21 +48,21 @@ let questions = [
         ]
     },
     {
-        question: "Why did the chicken cross the road?",
+        question: "What is jQuery?",
         options: [
-            { text: "To get to the other side", correct: true },
-            { text: "Yes", correct: false },
-            { text: "No", correct: false },
-            { text: "Maybe", correct: false }
+            { text: "A JavaScript Library", correct: true },
+            { text: "A Question", correct: false },
+            { text: "A Java Library", correct: false },
+            { text: "A Physical Library", correct: false }
         ]
     },
     {
-        question: "What is my name?",
+        question: "Visual Studio Code is an Example of?",
         options: [
-            { text: "Ayh1", correct: false },
-            { text: "Ayhaam", correct: true },
-            { text: "Aham", correct: false },
-            { text: "Ayaam", correct: false }
+            { text: "An Integrated Development Environment Software", correct: false },
+            { text: "A Library", correct: true },
+            { text: "A Place I Know In Ontario", correct: false },
+            { text: "A Place To Record Music", correct: false }
         ]
     }
 ];
