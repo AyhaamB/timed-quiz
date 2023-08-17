@@ -6,7 +6,7 @@ This is a short quiz that will test your knowledge on various coding topics. Onc
 
 
 ## Executing program
-Website link: 
+Website link: https://ayhaamb.github.io/timed-quiz/
 
 
 ## Photo of deployed website
