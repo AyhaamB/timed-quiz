@@ -10,7 +10,7 @@ Website link:
 
 
 ## Photo of deployed website
-![My Image](./images/Screenshot%202023-08-09%20at%207.46.50%20PM.png)
+![My Image](./images/timed-quiz-image.png)
 
 
 ## Help
