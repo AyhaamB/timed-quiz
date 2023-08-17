@@ -1,0 +1,35 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+h2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.question {
+    display: flex;
+    justify-content: center;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    position: absolute;
+    top: 20px;
+}
